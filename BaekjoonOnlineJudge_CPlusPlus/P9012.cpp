@@ -21,7 +21,7 @@ int main() {
 	
 
 	cin >> T;
-	cin.ignore();
+	cin.ignore(); // 잊지말자!
 
 	for (int i = 0; i < T; i++) {
 		getline(cin, input);
