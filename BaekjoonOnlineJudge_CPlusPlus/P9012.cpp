@@ -1,8 +1,8 @@
 /** Baekjoon Online Judge
 *   Problem No. 9012
-*   °ıÈ£
+*   ê´„í˜¸
 *   Writed by Rush.K
-*   ¹®ÀÚ¿­ ´Ù·ç±â
+*   ë¬¸ìì—´ ë‹¤ë£¨ê¸°
 */
 
 #include <iostream>
